@@ -1,0 +1,7 @@
+begin
+x = 9;
+for x in [1,10] execute
+begin
+x = x-1;
+end;
+end;
